@@ -1,0 +1,241 @@
+age,gender,symptoms,habits,tests
+18-30,Male,Fatigue,Poor sleep hygiene,a946
+18-30,Male,Fatigue,excessive caffeine intake,b597
+18-30,Male,Fatigue,lack of exercise.,c155
+18-30,Male,Unexplained weight loss,Poor diet,d317
+18-30,Male,Unexplained weight loss,irregular eating habits,e891
+18-30,Male,Unexplained weight loss,high-stress levels.,f963
+18-30,Male,Fever,Exposure to infections,g584
+18-30,Male,Fever,not practicing good hygiene,h266
+18-30,Male,Fever,neglecting vaccinations.,i359
+18-30,Male,Chronic pain,Poor posture,j806
+18-30,Male,Chronic pain,repetitive strain activities,k830
+18-30,Male,Chronic pain,inadequate pain management.,l395
+18-30,Male,Shortness of breath,Smoking,m799
+18-30,Male,Shortness of breath,lack of cardiovascular exercise,n823
+18-30,Male,Shortness of breath,exposure to pollutants.,o393
+18-30,Male,Changes in bowel habits,Poor diet (low in fiber,p169
+18-30,Male,Changes in bowel habits,high in processed foods),q157
+18-30,Male,Changes in bowel habits,dehydration,r557
+18-30,Male,Skin changes,Excessive sun exposure,s631
+18-30,Male,Skin changes,poor skin care routine,t845
+18-30,Male,Skin changes,not using sunscreen.,u655
+18-30,Male,Persistent cough,Smoking,v215
+18-30,Male,Persistent cough,exposure to irritants,w416
+18-30,Male,Persistent cough,untreated respiratory infections.,x867
+18-30,Male,Dizziness,Dehydration,y913
+18-30,Male,Dizziness,poor diet,z165
+18-30,Male,Dizziness,irregular sleep patterns.,aa356
+18-30,Male,Changes in urination,Inadequate fluid intake,bb512
+18-30,Male,Changes in urination,high caffeine or alcohol consumption,cc444
+18-30,Male,Changes in urination,holding urine for too long.,dd647
+31-45,Male,Fatigue,Poor sleep hygiene,ee628
+31-45,Male,Fatigue,excessive caffeine intake,ff533
+31-45,Male,Fatigue,lack of exercise.,gg740
+31-45,Male,Unexplained weight loss,Poor diet,hh344
+31-45,Male,Unexplained weight loss,irregular eating habits,ii963
+31-45,Male,Unexplained weight loss,high-stress levels.,jj792
+31-45,Male,Fever,Exposure to infections,kk669
+31-45,Male,Fever,not practicing good hygiene,ll669
+31-45,Male,Fever,neglecting vaccinations.,mm902
+31-45,Male,Chronic pain,Poor posture,nn684
+31-45,Male,Chronic pain,repetitive strain activities,oo122
+31-45,Male,Chronic pain,inadequate pain management.,pp467
+31-45,Male,Shortness of breath,Smoking,qq622
+31-45,Male,Shortness of breath,lack of cardiovascular exercise,rr677
+0,Male,Shortness of breath,exposure to pollutants.,ss485
+31-45,Male,Changes in bowel habits,Poor diet (low in fiber,tt406
+31-45,Male,Changes in bowel habits,high in processed foods),uu363
+31-45,Male,Changes in bowel habits,dehydration,vv123
+31-45,Male,Skin changes,Excessive sun exposure,ww851
+31-45,Male,Skin changes,poor skin care routine,xx305
+31-45,Male,Skin changes,not using sunscreen.,yy967
+31-45,Male,Persistent cough,Smoking,zz986
+31-45,Male,Persistent cough,exposure to irritants,a829
+31-45,Male,Persistent cough,untreated respiratory infections.,b721
+31-45,Male,Dizziness,Dehydration,c172
+31-45,Male,Dizziness,poor diet,d572
+31-45,Male,Dizziness,irregular sleep patterns.,e372
+31-45,Male,Changes in urination,Inadequate fluid intake,f984
+31-45,Male,Changes in urination,high caffeine or alcohol consumption,g283
+31-45,Male,Changes in urination,holding urine for too long.,h488
+45-60,Male,Fatigue,Poor sleep hygiene,i538
+45-60,Male,Fatigue,excessive caffeine intake,j293
+45-60,Male,Fatigue,lack of exercise.,k405
+45-60,Male,Unexplained weight loss,Poor diet,l150
+45-60,Male,Unexplained weight loss,irregular eating habits,m527
+45-60,Male,Unexplained weight loss,high-stress levels.,n310
+45-60,Male,Fever,Exposure to infections,o799
+45-60,Male,Fever,not practicing good hygiene,p185
+45-60,Male,Fever,neglecting vaccinations.,q264
+45-60,Male,Chronic pain,Poor posture,r890
+45-60,Male,Chronic pain,repetitive strain activities,s185
+45-60,Male,Chronic pain,inadequate pain management.,t995
+45-60,Male,Shortness of breath,Smoking,u676
+45-60,Male,Shortness of breath,lack of cardiovascular exercise,v486
+45-60,Male,Shortness of breath,exposure to pollutants.,w473
+45-60,Male,Changes in bowel habits,Poor diet (low in fiber,x752
+45-60,Male,Changes in bowel habits,high in processed foods),y395
+45-60,Male,Changes in bowel habits,dehydration,z632
+45-60,Male,Skin changes,Excessive sun exposure,aa945
+45-60,Male,Skin changes,poor skin care routine,bb598
+45-60,Male,Skin changes,not using sunscreen.,cc212
+45-60,Male,Persistent cough,Smoking,dd380
+45-60,Male,Persistent cough,exposure to irritants,ee842
+45-60,Male,Persistent cough,untreated respiratory infections.,ff928
+45-60,Male,Dizziness,Dehydration,gg840
+45-60,Male,Dizziness,poor diet,hh625
+45-60,Male,Dizziness,irregular sleep patterns.,ii316
+45-60,Male,Changes in urination,Inadequate fluid intake,jj985
+45-60,Male,Changes in urination,high caffeine or alcohol consumption,kk153
+45-60,Male,Changes in urination,holding urine for too long.,ll672
+61-100,Male,Fatigue,Poor sleep hygiene,mm560
+61-100,Male,Fatigue,excessive caffeine intake,nn784
+61-100,Male,Fatigue,lack of exercise.,oo694
+61-100,Male,Unexplained weight loss,Poor diet,pp358
+61-100,Male,Unexplained weight loss,irregular eating habits,qq681
+61-100,Male,Unexplained weight loss,high-stress levels.,rr643
+61-100,Male,Fever,Exposure to infections,ss776
+61-100,Male,Fever,not practicing good hygiene,tt582
+61-100,Male,Fever,neglecting vaccinations.,uu963
+61-100,Male,Chronic pain,Poor posture,vv583
+61-100,Male,Chronic pain,repetitive strain activities,ww195
+61-100,Male,Chronic pain,inadequate pain management.,xx960
+61-100,Male,Shortness of breath,Smoking,yy268
+61-100,Male,Shortness of breath,lack of cardiovascular exercise,zz839
+61-100,Male,Shortness of breath,exposure to pollutants.,a267
+61-100,Male,Changes in bowel habits,Poor diet (low in fiber,b656
+61-100,Male,Changes in bowel habits,high in processed foods),c151
+61-100,Male,Changes in bowel habits,dehydration,d232
+61-100,Male,Skin changes,Excessive sun exposure,e980
+61-100,Male,Skin changes,poor skin care routine,f983
+61-100,Male,Skin changes,not using sunscreen.,g920
+61-100,Male,Persistent cough,Smoking,h661
+61-100,Male,Persistent cough,exposure to irritants,i176
+61-100,Male,Persistent cough,untreated respiratory infections.,j398
+61-100,Male,Dizziness,Dehydration,k713
+61-100,Male,Dizziness,poor diet,l957
+61-100,Male,Dizziness,irregular sleep patterns.,m537
+61-100,Male,Changes in urination,Inadequate fluid intake,n183
+61-100,Male,Changes in urination,high caffeine or alcohol consumption,o622
+61-100,Male,Changes in urination,holding urine for too long.,p143
+18-30,Female,Fatigue,Poor sleep hygiene,q336
+18-30,Female,Fatigue,excessive caffeine intake,r788
+18-30,Female,Fatigue,lack of exercise.,s946
+18-30,Female,Unexplained weight loss,Poor diet,t344
+18-30,Female,Unexplained weight loss,irregular eating habits,u718
+18-30,Female,Unexplained weight loss,high-stress levels.,v964
+18-30,Female,Fever,Exposure to infections,w777
+18-30,Female,Fever,not practicing good hygiene,x632
+18-30,Female,Fever,neglecting vaccinations.,y420
+18-30,Female,Chronic pain,Poor posture,z512
+18-30,Female,Chronic pain,repetitive strain activities,aa520
+18-30,Female,Chronic pain,inadequate pain management.,bb603
+18-30,Female,Shortness of breath,Smoking,cc369
+18-30,Female,Shortness of breath,lack of cardiovascular exercise,dd695
+18-30,Female,Shortness of breath,exposure to pollutants.,ee891
+18-30,Female,Changes in bowel habits,Poor diet (low in fiber,ff135
+18-30,Female,Changes in bowel habits,high in processed foods),gg216
+18-30,Female,Changes in bowel habits,dehydration,hh362
+18-30,Female,Skin changes,Excessive sun exposure,ii643
+18-30,Female,Skin changes,poor skin care routine,jj181
+18-30,Female,Skin changes,not using sunscreen.,kk604
+18-30,Female,Persistent cough,Smoking,ll454
+18-30,Female,Persistent cough,exposure to irritants,mm362
+18-30,Female,Persistent cough,untreated respiratory infections.,nn506
+18-30,Female,Dizziness,Dehydration,oo188
+18-30,Female,Dizziness,poor diet,pp133
+18-30,Female,Dizziness,irregular sleep patterns.,qq704
+18-30,Female,Changes in urination,Inadequate fluid intake,rr187
+18-30,Female,Changes in urination,high caffeine or alcohol consumption,ss230
+18-30,Female,Changes in urination,holding urine for too long.,tt682
+31-45,Female,Fatigue,Poor sleep hygiene,uu341
+31-45,Female,Fatigue,excessive caffeine intake,vv698
+31-45,Female,Fatigue,lack of exercise.,ww968
+31-45,Female,Unexplained weight loss,Poor diet,xx365
+31-45,Female,Unexplained weight loss,irregular eating habits,yy328
+31-45,Female,Unexplained weight loss,high-stress levels.,zz986
+31-45,Female,Fever,Exposure to infections,a628
+31-45,Female,Fever,not practicing good hygiene,b852
+31-45,Female,Fever,neglecting vaccinations.,c525
+31-45,Female,Chronic pain,Poor posture,d721
+31-45,Female,Chronic pain,repetitive strain activities,e109
+31-45,Female,Chronic pain,inadequate pain management.,f783
+31-45,Female,Shortness of breath,Smoking,g549
+31-45,Female,Shortness of breath,lack of cardiovascular exercise,h142
+31-45,Female,Shortness of breath,exposure to pollutants.,i975
+31-45,Female,Changes in bowel habits,Poor diet (low in fiber,j825
+31-45,Female,Changes in bowel habits,high in processed foods),k259
+31-45,Female,Changes in bowel habits,dehydration,l968
+31-45,Female,Skin changes,Excessive sun exposure,m372
+31-45,Female,Skin changes,poor skin care routine,n272
+31-45,Female,Skin changes,not using sunscreen.,o984
+31-45,Female,Persistent cough,Smoking,p525
+31-45,Female,Persistent cough,exposure to irritants,q959
+31-45,Female,Persistent cough,untreated respiratory infections.,r589
+31-45,Female,Dizziness,Dehydration,s426
+31-45,Female,Dizziness,poor diet,t102
+31-45,Female,Dizziness,irregular sleep patterns.,u487
+31-45,Female,Changes in urination,Inadequate fluid intake,v617
+31-45,Female,Changes in urination,high caffeine or alcohol consumption,w678
+31-45,Female,Changes in urination,holding urine for too long.,x159
+45-60,Female,Fatigue,Poor sleep hygiene,y231
+45-60,Female,Fatigue,excessive caffeine intake,z275
+45-60,Female,Fatigue,lack of exercise.,aa187
+45-60,Female,Unexplained weight loss,Poor diet,bb770
+45-60,Female,Unexplained weight loss,irregular eating habits,cc732
+45-60,Female,Unexplained weight loss,high-stress levels.,dd450
+45-60,Female,Fever,Exposure to infections,ee143
+45-60,Female,Fever,not practicing good hygiene,ff495
+45-60,Female,Fever,neglecting vaccinations.,gg888
+45-60,Female,Chronic pain,Poor posture,hh120
+45-60,Female,Chronic pain,repetitive strain activities,ii200
+45-60,Female,Chronic pain,inadequate pain management.,jj634
+45-60,Female,Shortness of breath,Smoking,kk924
+45-60,Female,Shortness of breath,lack of cardiovascular exercise,ll563
+45-60,Female,Shortness of breath,exposure to pollutants.,mm378
+45-60,Female,Changes in bowel habits,Poor diet (low in fiber,nn723
+45-60,Female,Changes in bowel habits,high in processed foods),oo306
+45-60,Female,Changes in bowel habits,dehydration,pp733
+45-60,Female,Skin changes,Excessive sun exposure,qq370
+45-60,Female,Skin changes,poor skin care routine,rr562
+45-60,Female,Skin changes,not using sunscreen.,ss874
+45-60,Female,Persistent cough,Smoking,tt628
+45-60,Female,Persistent cough,exposure to irritants,uu153
+45-60,Female,Persistent cough,untreated respiratory infections.,vv406
+45-60,Female,Dizziness,Dehydration,ww574
+45-60,Female,Dizziness,poor diet,xx604
+45-60,Female,Dizziness,irregular sleep patterns.,yy339
+45-60,Female,Changes in urination,Inadequate fluid intake,zz937
+45-60,Female,Changes in urination,high caffeine or alcohol consumption,a559
+45-60,Female,Changes in urination,holding urine for too long.,b237
+61-100,Female,Fatigue,Poor sleep hygiene,c502
+61-100,Female,Fatigue,excessive caffeine intake,d499
+61-100,Female,Fatigue,lack of exercise.,e366
+61-100,Female,Unexplained weight loss,Poor diet,f621
+61-100,Female,Unexplained weight loss,irregular eating habits,g901
+61-100,Female,Unexplained weight loss,high-stress levels.,h496
+61-100,Female,Fever,Exposure to infections,i375
+61-100,Female,Fever,not practicing good hygiene,j516
+61-100,Female,Fever,neglecting vaccinations.,k171
+61-100,Female,Chronic pain,Poor posture,l785
+61-100,Female,Chronic pain,repetitive strain activities,m161
+61-100,Female,Chronic pain,inadequate pain management.,n637
+61-100,Female,Shortness of breath,Smoking,o183
+61-100,Female,Shortness of breath,lack of cardiovascular exercise,p372
+61-100,Female,Shortness of breath,exposure to pollutants.,q113
+61-100,Female,Changes in bowel habits,Poor diet (low in fiber,r173
+61-100,Female,Changes in bowel habits,high in processed foods),s120
+61-100,Female,Changes in bowel habits,dehydration,t784
+61-100,Female,Skin changes,Excessive sun exposure,u185
+61-100,Female,Skin changes,poor skin care routine,v376
+61-100,Female,Skin changes,not using sunscreen.,w514
+61-100,Female,Persistent cough,Smoking,x357
+61-100,Female,Persistent cough,exposure to irritants,y588
+61-100,Female,Persistent cough,untreated respiratory infections.,z575
+61-100,Female,Dizziness,Dehydration,aa882
+61-100,Female,Dizziness,poor diet,bb892
+61-100,Female,Dizziness,irregular sleep patterns.,cc951
+61-100,Female,Changes in urination,Inadequate fluid intake,dd657
+61-100,Female,Changes in urination,high caffeine or alcohol consumption,ee455
+61-100,Female,Changes in urination,holding urine for too long.,ff136

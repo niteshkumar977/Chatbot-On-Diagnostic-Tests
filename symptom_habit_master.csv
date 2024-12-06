@@ -1,0 +1,31 @@
+symptom_no,symptoms,habits
+1,Fatigue,Poor sleep hygiene
+1,Fatigue,excessive caffeine intake
+1,Fatigue,lack of exercise.
+2,Unexplained weight loss,Poor diet
+2,Unexplained weight loss,irregular eating habits
+2,Unexplained weight loss,high-stress levels.
+3,Fever,Exposure to infections
+3,Fever,not practicing good hygiene
+3,Fever,neglecting vaccinations.
+4,Chronic pain,Poor posture
+4,Chronic pain,repetitive strain activities
+4,Chronic pain,inadequate pain management.
+5,Shortness of breath,Smoking
+5,Shortness of breath,lack of cardiovascular exercise
+5,Shortness of breath,exposure to pollutants.
+6,Changes in bowel habits,Poor diet (low in fiber
+6,Changes in bowel habits,high in processed foods)
+6,Changes in bowel habits,dehydration
+7,Skin changes,Excessive sun exposure
+7,Skin changes,poor skin care routine
+7,Skin changes,not using sunscreen.
+8,Persistent cough,Smoking
+8,Persistent cough,exposure to irritants
+8,Persistent cough,untreated respiratory infections.
+9,Dizziness,Dehydration
+9,Dizziness,poor diet
+9,Dizziness,irregular sleep patterns.
+10,Changes in urination,Inadequate fluid intake
+10,Changes in urination,high caffeine or alcohol consumption
+10,Changes in urination,holding urine for too long.
